@@ -1,12 +1,19 @@
 {
   "files": {
-    "main.js": "/static/js/main.75effdf5.js",
+    "main.js": "/static/js/main.ce3c1264.js",
     "static/js/279.aafc7912.js": "/static/js/279.aafc7912.js",
+    "static/media/demo.gif": "/static/media/demo.e502acce220c3e5f37cd.gif",
+    "static/media/li4_1.png": "/static/media/li4_1.740ef8d27dec88e57d3a.png",
+    "static/media/li4_2.png": "/static/media/li4_2.043dab6e91a04ea7b3b9.png",
     "static/media/Rubik-VariableFont_wght.ttf": "/static/media/Rubik-VariableFont_wght.3a4acc0356c6ea73f2c3.ttf",
+    "static/media/M_Apostar.png": "/static/media/M_Apostar.9031ffafbf37cdca8ff1.png",
     "static/media/MaterialIcons.ttf": "/static/media/MaterialIcons.120b4c7bbd155bd0a04d.ttf",
+    "static/media/M_histTransacoes.png": "/static/media/M_histTransacoes.63b5af73c90074e24cce.png",
+    "static/media/screenie.png": "/static/media/screenie.5b4b5b16f257847ecd8e.png",
     "static/media/sample.png": "/static/media/sample.7aa03e066c63bfeec225.png",
     "static/media/AntDesign.ttf": "/static/media/AntDesign.163adab9dbd7cb1ed12a.ttf",
     "static/media/MAN(1).png": "/static/media/MAN(1).2571bdffc2e7d5970e51.png",
+    "static/media/cudalogo.jpg": "/static/media/cudalogo.cc824a87a2cdac950637.jpg",
     "favicon.ico": "/favicon.ico",
     "static/media/Daydream.ttf": "/static/media/Daydream.84eda7c4245e10bffa4b.ttf",
     "index.html": "/index.html",
@@ -15,11 +22,11 @@
     "favicon-16.png": "/favicon-16.png",
     "manifest.json": "/manifest.json",
     "serve.json": "/serve.json",
-    "main.75effdf5.js.map": "/static/js/main.75effdf5.js.map",
+    "main.ce3c1264.js.map": "/static/js/main.ce3c1264.js.map",
     "279.aafc7912.js.map": "/static/js/279.aafc7912.js.map"
   },
   "entrypoints": [
     "static/js/279.aafc7912.js",
-    "static/js/main.75effdf5.js"
+    "static/js/main.ce3c1264.js"
   ]
 }
