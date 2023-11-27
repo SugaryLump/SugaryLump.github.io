@@ -100,7 +100,7 @@ export default function App() {
           <Text style={[styles.headerText, styles.white]}>
             I have finished my 3 year degree in computer engineering and I'm
             currently finishing my master's in computer graphics. This involves
-            developping a thesis on water buoyancy simulation in real time and
+            developing a thesis on water buoyancy simulation in real time and
             developing an internal project with{" "}
             <a style={styles.link} href="https://www.keep.pt/en">
               KEEP Solutions
@@ -287,7 +287,7 @@ export default function App() {
           </View>
           <Text style={[styles.projectDescription, styles.white]}>
             For my final project in a class about real time rendering, I
-            developped a comic book style shader. This project was made in GLSL,
+            developed a comic book style shader. This project was made in GLSL,
             and consists of various shader files that contribute to a stylistic
             final render. The key components of the shaders are outlining, line
             shading, light discretization and dot shading.
@@ -386,7 +386,7 @@ export default function App() {
             />
           </View>
           <Text style={[styles.projectDescription, styles.white]}>
-            <b>RASBet</b> is a betting website developped for a class on
+            <b>RASBet</b> is a betting website developed for a class on
             software specification. In a group with 3 other class mates, my job
             in this project was designing the website mockups for formal
             specification and later implementation.
