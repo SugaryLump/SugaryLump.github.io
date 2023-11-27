@@ -190,6 +190,19 @@ export default function App() {
             </a>
             . Development is expected to finish within 2023.
           </Text>
+          <View
+            style={{
+              borderWidth: 2,
+              borderColor: colors.darkAccent,
+              borderRadius: 5,
+              overflow: "hidden",
+            }}
+          >
+            <img
+              src={require("./assets/projects/defiler/demo.gif")}
+              style={styles.projectImage}
+            />
+          </View>
         </Card>
         <Card>
           <Text style={[styles.projectName, styles.white]}>
@@ -210,7 +223,7 @@ export default function App() {
             }}
           >
             <img
-              src={require("./assets/projects/sample/sample.png")}
+              src={require("./assets/projects/eternallight/eternallight.png")}
               style={styles.projectImage}
             />
           </View>
@@ -236,6 +249,19 @@ export default function App() {
             a game design standpoint or in game via player choice (i.e. an
             upgrade system).
           </Text>
+          <View
+            style={{
+              borderWidth: 2,
+              borderColor: colors.darkAccent,
+              borderRadius: 5,
+              overflow: "hidden",
+            }}
+          >
+            <img
+              src={require("./assets/projects/eternallight/demo.gif")}
+              style={styles.projectImage}
+            />
+          </View>
         </Card>
         <Card>
           <Text style={[styles.projectName, styles.white]}>
@@ -462,10 +488,17 @@ export default function App() {
             This project was made for a general IT class with a focus on full
             stack development and formal specifications. In a group of four, we
             implemented a basic tourism app that was formally specified by
-            another group of students. My job in this project was implementing
-            the frontend for Android, which I did using React Native and the
-            Expo framework. Backend integration was later implemented by my
-            colleagues.
+            another group of students.
+            <p />
+            My job in this project was implementing the frontend for Android,
+            which I did using React Native and the Expo framework. Backend
+            integration was later implemented by my colleagues.
+            <p />
+            The project repository can be found{" "}
+            <a href="https://github.com/SugaryLump/LI4/" style={styles.link}>
+              here
+            </a>
+            .
           </Text>
           <View
             style={{
@@ -483,8 +516,9 @@ export default function App() {
         </Card>
       </View>
       <hr style={styles.ruler} />
-      <Text style={[styles.smallText, styles.white, {alignSelf:"center"}]}>
-        This rough little website was made by me in a few hours in React Native + Javascript, in 2023 
+      <Text style={[styles.smallText, styles.white, { alignSelf: "center" }]}>
+        This rough little website was made by me in a few hours in React Native
+        + Javascript, in 2023
       </Text>
     </View>
   );
