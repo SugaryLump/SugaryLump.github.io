@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.js": "/static/js/main.b2efa6fc.js",
-    "static/js/547.7b574d8f.js": "/static/js/547.7b574d8f.js",
-    "static/media/sample.gif": "/static/media/sample.4a035e5b845f41a2a8f6.gif",
+    "main.js": "/static/js/main.5e6e54ec.js",
+    "static/js/279.aafc7912.js": "/static/js/279.aafc7912.js",
     "static/media/Rubik-VariableFont_wght.ttf": "/static/media/Rubik-VariableFont_wght.3a4acc0356c6ea73f2c3.ttf",
     "static/media/MaterialIcons.ttf": "/static/media/MaterialIcons.120b4c7bbd155bd0a04d.ttf",
+    "static/media/sample.png": "/static/media/sample.7aa03e066c63bfeec225.png",
     "static/media/AntDesign.ttf": "/static/media/AntDesign.163adab9dbd7cb1ed12a.ttf",
     "favicon.ico": "/favicon.ico",
     "static/media/Daydream.ttf": "/static/media/Daydream.84eda7c4245e10bffa4b.ttf",
@@ -13,11 +13,11 @@
     "favicon-16.png": "/favicon-16.png",
     "manifest.json": "/manifest.json",
     "serve.json": "/serve.json",
-    "main.b2efa6fc.js.map": "/static/js/main.b2efa6fc.js.map",
-    "547.7b574d8f.js.map": "/static/js/547.7b574d8f.js.map"
+    "main.5e6e54ec.js.map": "/static/js/main.5e6e54ec.js.map",
+    "279.aafc7912.js.map": "/static/js/279.aafc7912.js.map"
   },
   "entrypoints": [
-    "static/js/547.7b574d8f.js",
-    "static/js/main.b2efa6fc.js"
+    "static/js/279.aafc7912.js",
+    "static/js/main.5e6e54ec.js"
   ]
 }
