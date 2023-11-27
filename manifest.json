@@ -2,8 +2,8 @@
   "background_color": "#ffffff",
   "display": "standalone",
   "lang": "en",
-  "name": "sugarylumpportfolio",
-  "short_name": "sugarylumpportfolio",
+  "name": "SugaryLump's Portfolio",
+  "short_name": "SugaryLump's Portfolio",
   "start_url": "/?utm_source=web_app_manifest",
   "orientation": "portrait"
 }
